@@ -1,6 +1,10 @@
+Nota: Con npm start en ejecucion, abra otra terminal y ejecute json-server --watch \db.json --port=5000 para poder ver la funcionalidad del proyecto hasta este punto.
+
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
